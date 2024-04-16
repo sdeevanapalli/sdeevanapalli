@@ -1,11 +1,31 @@
-- 👋 Hi, I’m @sdeevanapalli aka Shriniketh Deevanapalli
-- 👀 I’m interested in Python, Data Analysis, Web Development
-- 🌱 I’m currently learning Quant using Python
-- 💞️ I’m looking to collaborate on WebDev projects
-- 📫 How to reach me - `s.deevanapalli@gmail.com`
-- 😄 I am a student at BITS Pilani, Hyderabad Campus
+# Hey, I'm Shriniketh Deevanapalli! 👋
 
-<!---
-sdeevanapalli/sdeevanapalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨‍💻 **About Me:**
+- 🎓 Student at BITS Pilani, Hyderabad Campus.
+- 🌆 Originally from Hyderabad, India. Residing in Mumbai, India.
+- 💼 Interested in Python, Data Analysis, Web Development, and Quantitative Analysis.
+- 📚 Currently learning Quantitative Analysis using Python at BITS Hyderabad.
+- 🤖 Previously worked on Discord bot development, automation, and moderation.
+- 🎮 Built scripts for online text-based game torn.com using REST API services.
+
+🔭 **I'm Currently Working On:**
+- 📊 Exploring Quantitative Analysis and Machine Learning.
+- 🌐 Basic Web development projects, especially with pure CSS and JS.
+
+💼 **I'm Looking to Collaborate On:**
+- 🌐 Web development projects.
+- 📈 Data analysis projects, particularly those related to finance or predictive modeling (quant).
+
+📫 **How to Reach Me:**
+- 📧 Email: s.deevanapalli@gmail.com
+- 💬 Discord: itzsd06
+
+🌱 **Skills:**
+- **Languages:** Python, JavaScript, HTML, CSS.
+- **Frameworks/Libraries:** Django, Flask.
+- **Tools/Technologies:** Git, REST APIs, Data Visualization.
+
+📚 **Education:**
+- Bachelor of Engineering (B.E.) in Electronics and Instrumentation, BITS Pilani, Hyderabad Campus (2027)
+
+Feel free to connect and collaborate! Let's build something awesome together. 😄
