@@ -2,7 +2,6 @@
 
 👨‍💻 **About Me:**
 - 🎓 Student at BITS Pilani, Hyderabad Campus.
-- 🌆 Originally from Hyderabad, India. Residing in Mumbai, India.
 - 💼 Interested in Python, Data Analysis, Web Development, and Quantitative Analysis.
 - 📚 Currently learning Quantitative Analysis using Python at BITS Hyderabad.
 - 🤖 Previously worked on Discord bot development, automation, and moderation.
