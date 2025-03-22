@@ -28,3 +28,5 @@
 - Bachelor of Engineering (B.E.) in Electronics and Instrumentation, BITS Pilani, Hyderabad Campus (2027)
 
 Feel free to connect and collaborate! Let's build something awesome together. 😄
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
