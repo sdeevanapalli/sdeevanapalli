@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">Hey there, I'm Shriniketh Deevanapalli</h1>
 
-<!--
-**sdeevanapalli/sdeevanapalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&center=true&vCenter=true&width=435&lines=Web+Dev+%7C+Python+%7C+Quant;Building+cool+things!" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 BITS Pilani, Hyderabad Campus  
+**B.E. Electronics & Instrumentation (2027)**  
+
+---
+
+### 🛠️ Tech Stack  
+```python
+Languages: Python, JavaScript, TypeScript, HTML/CSS  
+Tools: Flask, Django, Git, REST APIs, Pandas, Matplotlib
+```
+
+---
+
+### 🔗 Connect With Me  
+📧 **Email:** s.deevanapalli@gmail.com  
+💬 **Discord:** itzsd06
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdeevanapalli&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=sdeevanapalli&color=blue" alt="Profile Views" />
+</p>
