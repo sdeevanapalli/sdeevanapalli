@@ -25,8 +25,34 @@ Tools: Flask, Django, Git, REST APIs, Pandas, Matplotlib
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sdeevanapalli&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdeevanapalli&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdeevanapalli&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sdeevanapalli&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdeevanapalli&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br>
   <img src="https://komarev.com/ghpvc/?username=sdeevanapalli&color=blue" alt="Profile Views" />
 </p>
+
+
