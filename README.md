@@ -47,12 +47,3 @@ Tools: Flask, Django, Git, REST APIs, Pandas, Matplotlib
   <img src="https://github-profile-trophy.vercel.app/?username=sdeevanapalli&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdeevanapalli&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=sdeevanapalli&color=blue" alt="Profile Views" />
-</p>
-
-
