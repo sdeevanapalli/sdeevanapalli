@@ -18,15 +18,23 @@
 
 ---
 
-### 📈 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sdeevanapalli&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdeevanapalli&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<h3 align="center">📈 GitHub Insights</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdeevanapalli&theme=tokyonight&hide_border=true&layout=compact" width="70%" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=sdeevanapalli&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="400" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdeevanapalli&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400" />
+      </td>
+    </tr>
+  </table>
+
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdeevanapalli&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" width="600" />
+</div>
 
 ---
 
