@@ -1,4 +1,4 @@
-# 💫 About Me
+# About Me
 
 I build fullstack products with real users like a room-finder app, a RAG-based compliance system, an institutional management system for my college, and more. My stack is mostly TypeScript + PostgreSQL on the web side and Python for anything ML. Currently in my third year at BITS Pilani Hyderabad doing Electronics & Instrumentation. Outside of code, I cycle and run.
 
