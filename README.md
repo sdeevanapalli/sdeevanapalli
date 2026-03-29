@@ -1,6 +1,14 @@
 # 💫 About Me
 
-Started coding in high school and never really stopped. I build fullstack products with real users — a room-finder app, a RAG-based compliance system, an institutional management system for my college, and more. My stack is mostly TypeScript + PostgreSQL on the web side and Python for anything ML. Currently in my third year at BITS Pilani Hyderabad doing Electronics & Instrumentation. Outside of code, I cycle and run.
+I build fullstack products with real users like a room-finder app, a RAG-based compliance system, an institutional management system for my college, and more. My stack is mostly TypeScript + PostgreSQL on the web side and Python for anything ML. Currently in my third year at BITS Pilani Hyderabad doing Electronics & Instrumentation. Outside of code, I cycle and run.
+
+---
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=sdeevanapalli&icon=0&color=6)](https://visitcount.itsvg.in)
+
+</div>
 
 ---
 
@@ -70,28 +78,10 @@ Started coding in high school and never really stopped. I build fullstack produc
 
 ---
 
-## ✍️ Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
 ## 🔝 Top Contributed Repos
 
 <div align="center">
 
 ![](https://github-contributor-stats.vercel.app/api?username=sdeevanapalli&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-<div align="center">
-
-[![](https://visitcount.itsvg.in/api?id=sdeevanapalli&icon=0&color=6)](https://visitcount.itsvg.in)
 
 </div>
